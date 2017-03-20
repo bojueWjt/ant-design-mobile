@@ -11,6 +11,23 @@ title: Change Log
 
 ---
 
+### 1.1.0
+
+`2017-xx-xx`
+
+## New Feature
+
+
+
+## Break Change
+
+- `pagination` 组件 `current` 属性改成从 `1` 开始索引 （[#1009](https://github.com/ant-design/ant-design-mobile/issues/1009)）
+
+
+## Improve & Bugfix
+
+
+
 `2017-03-17`
 
 # 1.0.6
